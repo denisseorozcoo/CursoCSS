@@ -105,6 +105,8 @@ left:60%;
     font-weight:500;
     color:white;
     border:none;
+    width: 110px;
+    height: 30px;
 }
 h1{
     position: relative;
